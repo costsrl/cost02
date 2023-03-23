@@ -6,5 +6,7 @@
             "Cost02\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+    "costsrl/cost01": "v1.0.1"
+	}
 }
