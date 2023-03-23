@@ -1,0 +1,10 @@
+{
+    "name": "costsrl/cost02",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cost02\\": "src/"
+        }
+    },
+    "require": {}
+}
