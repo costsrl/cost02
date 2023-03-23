@@ -7,6 +7,6 @@
         }
     },
     "require": {
-		"costsrl/cost01":"*"
+		"costsrl/cost01":">=1.0.0"
 	}
 }
