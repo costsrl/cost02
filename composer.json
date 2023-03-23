@@ -6,16 +6,7 @@
             "Cost02\\": "src/"
         }
     },
-    "require": {}
-},
-{
-    "name": "costsrl/cost01",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Vitomattera\\Cost01\\": "src/"
-        }
-    },
-    "require": {}
+    "require": {
+		"costsrl/cost01":"*"
+	}
 }
-
