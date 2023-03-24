@@ -17,9 +17,11 @@
             "merge-extra": false,
             "merge-extra-deep": false,
             "merge-scripts": false
-        }"autoload": {
-        "psr-4": {
-            "Cost02\\": "src/"
         }
-    }
+	},
+	"autoload": {
+		"psr-4": {
+			"Cost02\\": "src/"
+		}
+	}
 }
