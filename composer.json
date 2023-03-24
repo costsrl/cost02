@@ -2,22 +2,9 @@
     "name": "costsrl/cost02",
     "description": "CoST02",
     "type": "library",
-    "require": {
-        "costsrl/cost01": "^1.0"
-    },
-    "extra": {
-        "merge-plugin": {
-            "include": [
-                "costsrl/cost01/composer.json"
-            ],
-            "recurse": true,
-            "replace": false,
-            "ignore-duplicates": false,
-            "merge-dev": true,
-            "merge-extra": false,
-            "merge-extra-deep": false,
-            "merge-scripts": false
-        }
+	"require": {
+		"php": "^7.4",
+		"costsrl/cost01": "^1.0"
 	},
 	"autoload": {
 		"psr-4": {
