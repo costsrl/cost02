@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cost02\\": "src/"
+            "Costsrl\\Cost02\\": "src/"
         }
     }
 }
