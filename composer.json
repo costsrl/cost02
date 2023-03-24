@@ -1,12 +1,16 @@
 {
     "name": "costsrl/cost02",
+    "description": "Cost02",
     "type": "library",
     "require": {
         "costsrl/cost01": "^1.0"
     },
+    "require-dev": {
+        "costsrl/cost01": "^1.0"
+    },
     "autoload": {
         "psr-4": {
-            "Costsrl\\Cost02\\": "src/"
+            "Cost02\\": "src/"
         }
     }
 }
