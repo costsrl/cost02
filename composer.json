@@ -9,7 +9,7 @@
         "merge-plugin": {
             "include": [
                 "costsrl/cost01/composer.json"
-            ]
+            ],
             "recurse": true,
             "replace": false,
             "ignore-duplicates": false,
