@@ -1,10 +1,14 @@
 {
     "name": "costsrl/cost02",
-    "description": "CoST02",
+    "description": "CoST - cost02",
     "type": "library",
     "require": {
         "php": "^7.4",
-        "costsrl/cost01": "^1.0"
+        "costsrl/cost01": "dev-main"
+    },
+    "require-dev": {
+        "php": "^7.4",
+        "costsrl/cost01": "dev-main"
     },
     "autoload": {
         "psr-4": {
@@ -16,5 +20,5 @@
             "name": "CoST srl"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
